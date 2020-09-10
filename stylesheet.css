@@ -1,2 +1,9 @@
-h1 {color: red;}
-body {background-color: burlywood;}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+h1 {color: #09053dcb;
+    font-family: 'Indie Flower', cursive;
+font-size: xxx-large;
+font-style: italic;}
+body {background-color: #a3903bf1;
+font-family: Arial, Helvetica, sans-serif;
+}
+.marked {background-color: aqua;}
