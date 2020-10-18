@@ -19,3 +19,27 @@ font-family: Arial, Helvetica, sans-serif;}
 .marked {background-color: aqua;}
 .recomendation{
     background-color: #e2610a;}
+    
+
+    .fashion designer {
+        width: 100%
+    }
+    .img-sari h2 {
+        padding: 30px 30px 20px;
+        font-family: arial;
+        font-size: 50px;
+        color: #111;
+        line-height: 44px;
+    }
+    .img-sari p{
+        padding: 0px 30px 20px;
+        font-family: arial;
+        font-size: 16px;
+        color: #111;
+        line-height: 24px;
+    }
+
+    .img-sarina {
+        width=100%
+    }
+    @media  only screen and (min-width: 786px;)
